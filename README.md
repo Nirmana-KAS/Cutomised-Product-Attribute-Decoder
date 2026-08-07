@@ -23,8 +23,6 @@
 <!-- 👇 Replace this with your actual screenshot — drag & drop the image into this spot on GitHub, or commit it to /docs/screenshot.png and keep the path below -->
 ![App Screenshot](https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/Screenshot%202026-08-06%20234002.png)
 
-*Paste or drag your app screenshot here*
-
 </div>
 
 ---
