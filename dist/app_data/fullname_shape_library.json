@@ -1,0 +1,134 @@
+[
+  {
+    "shape": "TUBE",
+    "code": "TU",
+    "name": "Tube",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "BEAD",
+    "code": "BE",
+    "name": "Bead",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "P/CAB",
+    "code": "PI",
+    "name": "Pierced-cab",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "SUGARLOAF",
+    "code": "SL",
+    "name": "Sugar Loaf",
+    "size_type": "L & W"
+  },
+  {
+    "shape": "CYLINDER",
+    "code": "CY",
+    "name": "Cylinder",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "Tron-RD",
+    "code": "RT",
+    "name": "Round Tron",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "Soften culet",
+    "code": "SC",
+    "name": "Soft Culet",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "ROSECUT",
+    "code": "RC",
+    "name": "Rose Cut",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "PYRAMID",
+    "code": "PY",
+    "name": "Pyramid",
+    "size_type": "L & W"
+  },
+  {
+    "shape": "CUSION",
+    "code": "CU",
+    "name": "Cushion",
+    "size_type": "L & W"
+  },
+  {
+    "shape": "SPHERE",
+    "code": "SP",
+    "name": "Sphere",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "ROSE CUT",
+    "code": "RC",
+    "name": "Rose Cut",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "RD-FAC",
+    "code": "RD",
+    "name": "Round",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "CAB-RD",
+    "code": "RD",
+    "name": "Round",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "PI-CAB",
+    "code": "PI",
+    "name": "Pierced-cab",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "2/3 TUBE",
+    "code": "TU",
+    "name": "Tube",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "2/3 TUBE",
+    "code": "TU",
+    "name": "Tube",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "PI CAB",
+    "code": "PI",
+    "name": "Pierced-cab",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "RD-CAB",
+    "code": "RD",
+    "name": "Round",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "Soften Culet",
+    "code": "SC",
+    "name": "Soft Culet",
+    "size_type": "D & H"
+  },
+  {
+    "shape": "OV-CAB",
+    "code": "OV",
+    "name": "Oval",
+    "size_type": "L & W"
+  },
+  {
+    "shape": "CAB",
+    "code": "PI",
+    "name": "Pierced-cab",
+    "size_type": "D & H"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "code": "BG",
+    "name": "Baguette",
+    "size_type": "L & W"
+  },
+  {
+    "code": "BC",
+    "name": "Banana Cut",
+    "size_type": "L & W"
+  },
+  {
+    "code": "BA",
+    "name": "Barrel",
+    "size_type": "D & H"
+  },
+  {
+    "code": "BL",
+    "name": "Bullet",
+    "size_type": "L & W"
+  },
+  {
+    "code": "CH",
+    "name": "Calf Head",
+    "size_type": "L & W"
+  },
+  {
+    "code": "CR",
+    "name": "Cross",
+    "size_type": "L & W"
+  },
+  {
+    "code": "CU",
+    "name": "Cushion",
+    "size_type": "L & W"
+  },
+  {
+    "code": "FN",
+    "name": "Fan",
+    "size_type": "L & W"
+  },
+  {
+    "code": "FS",
+    "name": "Fancy Shape",
+    "size_type": "L & W"
+  },
+  {
+    "code": "HR",
+    "name": "Half Round",
+    "size_type": "D & H"
+  },
+  {
+    "code": "HT",
+    "name": "Heart",
+    "size_type": "L & W"
+  },
+  {
+    "code": "MQ",
+    "name": "Marquise",
+    "size_type": "L & W"
+  },
+  {
+    "code": "MX",
+    "name": "Mixed",
+    "size_type": "L & W"
+  },
+  {
+    "code": "MT",
+    "name": "Motif",
+    "size_type": "L & W"
+  },
+  {
+    "code": "OG",
+    "name": "Octagon",
+    "size_type": "L & W"
+  },
+  {
+    "code": "OV",
+    "name": "Oval",
+    "size_type": "L & W"
+  },
+  {
+    "code": "PR",
+    "name": "Pear",
+    "size_type": "L & W"
+  },
+  {
+    "code": "PG",
+    "name": "Pentagon",
+    "size_type": "L & W"
+  },
+  {
+    "code": "PC",
+    "name": "Princess Cut",
+    "size_type": "D & H"
+  },
+  {
+    "code": "RC",
+    "name": "Rose Cut",
+    "size_type": "D & H"
+  },
+  {
+    "code": "RD",
+    "name": "Round",
+    "size_type": "D & H"
+  },
+  {
+    "code": "SP",
+    "name": "Sphere",
+    "size_type": "D & H"
+  },
+  {
+    "code": "SQ",
+    "name": "Square",
+    "size_type": "L & W"
+  },
+  {
+    "code": "ST",
+    "name": "Star",
+    "size_type": "D & H"
+  },
+  {
+    "code": "TB",
+    "name": "Taper Baguette",
+    "size_type": "L & W"
+  },
+  {
+    "code": "TA",
+    "name": "Triangle",
+    "size_type": "L & W"
+  },
+  {
+    "code": "SU",
+    "name": "Sun",
+    "size_type": "D & H"
+  },
+  {
+    "code": "PI",
+    "name": "Pierced-cab",
+    "size_type": "D & H"
+  },
+  {
+    "code": "DT",
+    "name": "Dc Tronquee",
+    "size_type": "D & H"
+  },
+  {
+    "code": "RT",
+    "name": "Rd Tronquee",
+    "size_type": "D & H"
+  },
+  {
+    "code": "HC",
+    "name": "Half Crescent",
+    "size_type": "L & W"
+  },
+  {
+    "code": "RI",
+    "name": "Ring",
+    "size_type": "D & H"
+  },
+  {
+    "code": "RF",
+    "name": "Flower Cut",
+    "size_type": "D & H"
+  },
+  {
+    "code": "EC",
+    "name": "Emerald Cut",
+    "size_type": "L & W"
+  },
+  {
+    "code": "HO",
+    "name": "Half Octogon",
+    "size_type": "L & W"
+  },
+  {
+    "code": "HS",
+    "name": "Horse Shoes",
+    "size_type": "L & W"
+  },
+  {
+    "code": "PY",
+    "name": "Pyramid",
+    "size_type": "L & W"
+  },
+  {
+    "code": "PM",
+    "name": "Pompom",
+    "size_type": "L & W"
+  },
+  {
+    "code": "DD",
+    "name": "Double Dome",
+    "size_type": "D & H"
+  },
+  {
+    "code": "SC",
+    "name": "Soft Culet",
+    "size_type": "D & H"
+  },
+  {
+    "code": "CC",
+    "name": "Crescent",
+    "size_type": "D & H"
+  },
+  {
+    "code": "HM",
+    "name": "Half Marquise",
+    "size_type": "L & W"
+  },
+  {
+    "code": "MI",
+    "name": "Maia",
+    "size_type": "L & W"
+  },
+  {
+    "code": "OU",
+    "name": "Rough",
+    "size_type": ""
+  },
+  {
+    "code": "BR",
+    "name": "Briollete",
+    "size_type": "L & W"
+  },
+  {
+    "code": "MC",
+    "name": "Meloncut",
+    "size_type": "D & H"
+  },
+  {
+    "code": "GT",
+    "name": "Groove Taper Baguette",
+    "size_type": "L & W"
+  },
+  {
+    "code": "GB",
+    "name": "Groove Baguette",
+    "size_type": "L & W"
+  },
+  {
+    "code": "FP",
+    "name": "Facetted Pentagon",
+    "size_type": "L & W"
+  },
+  {
+    "code": "GF",
+    "name": "Groove Facetted Pentagon",
+    "size_type": "L & W"
+  },
+  {
+    "code": "TU",
+    "name": "Tube",
+    "size_type": "D & H"
+  },
+  {
+    "code": "BE",
+    "name": "Bead",
+    "size_type": "D & H"
+  }
+]

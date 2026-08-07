@@ -1,0 +1,426 @@
+[
+  {
+    "code": "00AX",
+    "name": "Alexandrite"
+  },
+  {
+    "code": "0ALG",
+    "name": "Almandine Garnet"
+  },
+  {
+    "code": "00AM",
+    "name": "Amethyst"
+  },
+  {
+    "code": "00AQ",
+    "name": "Aquamarine"
+  },
+  {
+    "code": "0BLS",
+    "name": "Blue Lavender Sapphire"
+  },
+  {
+    "code": "0BSP",
+    "name": "Black Spinel"
+  },
+  {
+    "code": "BSAP",
+    "name": "Black Sapphire"
+  },
+  {
+    "code": "0BAG",
+    "name": "Blue Agate"
+  },
+  {
+    "code": "0BMS",
+    "name": "Blue Moon Stone"
+  },
+  {
+    "code": "0BOP",
+    "name": "Blue Opal"
+  },
+  {
+    "code": "0BSN",
+    "name": "Blue Sapphire Natural"
+  },
+  {
+    "code": "00BS",
+    "name": "Blue Sapphire"
+  },
+  {
+    "code": "00BT",
+    "name": "Blue Topaz"
+  },
+  {
+    "code": "00CD",
+    "name": "Chalcedony"
+  },
+  {
+    "code": "0CHR",
+    "name": "Chrysoprase"
+  },
+  {
+    "code": "00CT",
+    "name": "Citrine"
+  },
+  {
+    "code": "CBSP",
+    "name": "Cobalt Blue Spinel"
+  },
+  {
+    "code": "00CS",
+    "name": "Cola Sapphire"
+  },
+  {
+    "code": "00CR",
+    "name": "Corail"
+  },
+  {
+    "code": "0CNL",
+    "name": "Cornelian"
+  },
+  {
+    "code": "00CZ",
+    "name": "Cubic Zirconia"
+  },
+  {
+    "code": "00EM",
+    "name": "Emerald"
+  },
+  {
+    "code": "00FS",
+    "name": "Fancy Sapphire"
+  },
+  {
+    "code": "00GN",
+    "name": "Garnet"
+  },
+  {
+    "code": "0GOB",
+    "name": "Gold Obsidian"
+  },
+  {
+    "code": "00GS",
+    "name": "Green Sapphire"
+  },
+  {
+    "code": "0GMS",
+    "name": "Grey Moonstone"
+  },
+  {
+    "code": "0GSP",
+    "name": "Grey Spinel"
+  },
+  {
+    "code": "0HGA",
+    "name": "Hessonite Garnet"
+  },
+  {
+    "code": "00LP",
+    "name": "Lapis Lazuli"
+  },
+  {
+    "code": "00LS",
+    "name": "Lavender Sapphire"
+  },
+  {
+    "code": "0LBT",
+    "name": "London Blue Topaz"
+  },
+  {
+    "code": "00MA",
+    "name": "Malachite"
+  },
+  {
+    "code": "00MS",
+    "name": "Moonstone"
+  },
+  {
+    "code": "00NJ",
+    "name": "Nephrite Jade"
+  },
+  {
+    "code": "00OX",
+    "name": "Onyx"
+  },
+  {
+    "code": "00OP",
+    "name": "Opal"
+  },
+  {
+    "code": "00OS",
+    "name": "Orange Sapphire"
+  },
+  {
+    "code": "0PLS",
+    "name": "Pink Lavender Sapphire"
+  },
+  {
+    "code": "TPRI",
+    "name": "Paraiba Tourmaline"
+  },
+  {
+    "code": "0PMS",
+    "name": "Peach Moonstone"
+  },
+  {
+    "code": "00PD",
+    "name": "Peridot"
+  },
+  {
+    "code": "00PS",
+    "name": "Pink Sapphire"
+  },
+  {
+    "code": "0PSP",
+    "name": "Pink Spinel"
+  },
+  {
+    "code": "00QU",
+    "name": "Quartz"
+  },
+  {
+    "code": "0RLS",
+    "name": "Red Lavender Sapphire"
+  },
+  {
+    "code": "0RAG",
+    "name": "Red Agate"
+  },
+  {
+    "code": "0RGN",
+    "name": "Red Garnet"
+  },
+  {
+    "code": "0RSP",
+    "name": "Red Spinel"
+  },
+  {
+    "code": "RHGN",
+    "name": "Rhodolite Garnet"
+  },
+  {
+    "code": "00RU",
+    "name": "Ruby"
+  },
+  {
+    "code": "0SOB",
+    "name": "Silver Obsidian"
+  },
+  {
+    "code": "00SQ",
+    "name": "Smoky Quartz"
+  },
+  {
+    "code": "0SPT",
+    "name": "Spessartite"
+  },
+  {
+    "code": "00SP",
+    "name": "Spinel"
+  },
+  {
+    "code": "0SBT",
+    "name": "Swiss Blue Topaz"
+  },
+  {
+    "code": "00TB",
+    "name": "Blue Tourmaline"
+  },
+  {
+    "code": "00TC",
+    "name": "Chromium Tourmaline"
+  },
+  {
+    "code": "00TG",
+    "name": "Green Tourmaline"
+  },
+  {
+    "code": "0TRU",
+    "name": "Ruby Tourmaline"
+  },
+  {
+    "code": "00TS",
+    "name": "Tsavorite"
+  },
+  {
+    "code": "00TQ",
+    "name": "Turquoise"
+  },
+  {
+    "code": "00AG",
+    "name": "White Agate"
+  },
+  {
+    "code": "0WMS",
+    "name": "White Moon Stone"
+  },
+  {
+    "code": "00WS",
+    "name": "White Sapphire"
+  },
+  {
+    "code": "00WT",
+    "name": "White Topaz"
+  },
+  {
+    "code": "YSOS",
+    "name": "Yellow Orange Sapphire"
+  },
+  {
+    "code": "00YS",
+    "name": "Yellow Sapphire"
+  },
+  {
+    "code": "YSGS",
+    "name": "Yellow Green Sapphire"
+  },
+  {
+    "code": "TECD",
+    "name": "Tiger Eye Chalcadony"
+  },
+  {
+    "code": "0BRS",
+    "name": "Brown Sapphire"
+  },
+  {
+    "code": "00GB",
+    "name": "Green Beryl"
+  },
+  {
+    "code": "00FE",
+    "name": "Falcon Eye"
+  },
+  {
+    "code": "BLSP",
+    "name": "Blue Spinel"
+  },
+  {
+    "code": "BLJD",
+    "name": "Black Jade"
+  },
+  {
+    "code": "00JD",
+    "name": "Jade"
+  },
+  {
+    "code": "BLAG",
+    "name": "Blue Lace Agate"
+  },
+  {
+    "code": "0BCD",
+    "name": "Blue Chalcedony"
+  },
+  {
+    "code": "BKAG",
+    "name": "Black Agate"
+  },
+  {
+    "code": "00RL",
+    "name": "Rubelite"
+  },
+  {
+    "code": "00GA",
+    "name": "Green Aventurine"
+  },
+  {
+    "code": "00IL",
+    "name": "Iolite"
+  },
+  {
+    "code": "0SHL",
+    "name": "Sinhalite"
+  },
+  {
+    "code": "VDJD",
+    "name": "Verdite Jade"
+  },
+  {
+    "code": "00WM",
+    "name": "Wyoming Jade"
+  },
+  {
+    "code": "0GGJ",
+    "name": "Grey Green Jasper"
+  },
+  {
+    "code": "00TP",
+    "name": "Topaz"
+  },
+  {
+    "code": "00SL",
+    "name": "Sodalite"
+  },
+  {
+    "code": "00RJ",
+    "name": "Red Jasper"
+  },
+  {
+    "code": "00PJ",
+    "name": "Pink Jasper"
+  },
+  {
+    "code": "PMOP",
+    "name": "Pink Mother Of Pearl"
+  },
+  {
+    "code": "RQAT",
+    "name": "Rose Quartz"
+  },
+  {
+    "code": "0ANJ",
+    "name": "Apple Nephrite Jade"
+  },
+  {
+    "code": "00AT",
+    "name": "Apatite"
+  },
+  {
+    "code": "0POP",
+    "name": "Pink Opal"
+  },
+  {
+    "code": "00ZC",
+    "name": "Zircon"
+  },
+  {
+    "code": "00DR",
+    "name": "Dumortierite"
+  },
+  {
+    "code": "0GAG",
+    "name": "Green Agate"
+  },
+  {
+    "code": "0PCD",
+    "name": "Pink Chalcedony"
+  },
+  {
+    "code": "00AZ",
+    "name": "Amazonite"
+  },
+  {
+    "code": "PUGN",
+    "name": "Purple Garnet"
+  },
+  {
+    "code": "0HGN",
+    "name": "Hessonite Garnet"
+  },
+  {
+    "code": "0GJD",
+    "name": "Green Jade"
+  },
+  {
+    "code": "0PAG",
+    "name": "Pink Agate"
+  },
+  {
+    "code": "00AZ",
+    "name": "Amazanite"
+  },
+  {
+    "code": "00TG",
+    "name": "Touramline Green"
+  }
+]

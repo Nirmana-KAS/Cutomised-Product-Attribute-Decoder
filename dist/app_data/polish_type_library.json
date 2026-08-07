@@ -1,0 +1,9002 @@
+[
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1301",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1302",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1303",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1304",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1305",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1306",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1307",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1308",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1309",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1310",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX007BKG",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0SQ2S",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K04",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE90PLHF",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X1LZ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0W5R1",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0QQQB",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J7",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104QD",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J5",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104SG",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104QX",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W575",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CR43AM169",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L2",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L3",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L5",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG8",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG8",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG8",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZGG8",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZGG5",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZGG4",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZGG2",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZGG1",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZG24",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZG1T",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZG0X",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0Z683",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZG25",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX007BKG",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "#3 HJ - Serpent",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "OV",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "#3 HJ - Serpent",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Butterfly collection",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Butterfly collection",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "MC",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "MC",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SP",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SP",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SP",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SP",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Jewellery Box",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "CROG001522",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CROGO001540",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 1'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 4",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 4'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 5",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "No 5'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "6057T Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Mahjong",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K04",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMX000K05",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGL",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGN",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGP",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGM",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGZ",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGR",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLH0",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHH",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHD",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHN",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ5",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ1",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHQ",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJF",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ0",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHF",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHK",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHV",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJR",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLH1",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHP",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHC",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHL",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJS",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJT",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJM",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJL",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHR",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJD",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJW",
+    "plan_no": "",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNB9",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DN8K",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBC",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBJ",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBG",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBL",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBN",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBS",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBX",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBV",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBQ",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC2",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC6",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC4",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC8",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCC",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNKF",
+    "plan_no": "",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0F5W0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0CV35",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0CV35",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0CV35",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0CV35",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE0PR6G",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXEOPH9Q",
+    "plan_no": "",
+    "remarks": "Massai",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXEOPH9Q",
+    "plan_no": "",
+    "remarks": "Massai",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCD",
+    "plan_no": "652",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC0",
+    "plan_no": "640",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC3",
+    "plan_no": "643",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBP",
+    "plan_no": "632",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBT",
+    "plan_no": "636",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBK",
+    "plan_no": "628",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBB",
+    "plan_no": "622",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBW",
+    "plan_no": "638",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCB",
+    "plan_no": "650",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBH",
+    "plan_no": "626",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBF",
+    "plan_no": "624",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX0005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "C71635003-0015",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KQHJ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMX000K05",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Blue Eye",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Blue Eye",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "CC",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0X3D0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0XS7Q",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0XS7Q",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX006QQL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K04",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PH9Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0P7HW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0P7HW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE0F5W0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE0F5W0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "623",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "623",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "623",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "623",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "623",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0X3D0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tourbillon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PH9Q",
+    "plan_no": "",
+    "remarks": "Massai",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCD",
+    "plan_no": "652",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC7",
+    "plan_no": "647",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC0",
+    "plan_no": "640",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBR",
+    "plan_no": "634",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC3",
+    "plan_no": "643",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBP",
+    "plan_no": "632",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBT",
+    "plan_no": "636",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBK",
+    "plan_no": "628",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC5",
+    "plan_no": "645",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBB",
+    "plan_no": "622",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBW",
+    "plan_no": "638",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCB",
+    "plan_no": "650",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBH",
+    "plan_no": "626",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBM",
+    "plan_no": "630",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Blue Eye",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Blue Eye",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0NGGX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "616",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Mahjong",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Mahjong",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Mahjong",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQGL",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104986",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104986",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104984",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104984",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104985",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104985",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104981",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104981",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE0PR6G",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTV",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTS",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0X4NP",
+    "plan_no": "V348",
+    "remarks": "6057T Horns",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P001",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P002",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P003",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P004",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P006",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P009",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P011",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P012",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P013",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P015",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L2",
+    "plan_no": "P016",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KQHJ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMX000K05",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMX003JHQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PH9Q",
+    "plan_no": "",
+    "remarks": "Massai",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC7",
+    "plan_no": "647",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBR",
+    "plan_no": "634",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC5",
+    "plan_no": "645",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBM",
+    "plan_no": "630",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBT",
+    "plan_no": "636",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBQ",
+    "plan_no": "633",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBN",
+    "plan_no": "631",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC2",
+    "plan_no": "642",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBS",
+    "plan_no": "635",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNKF",
+    "plan_no": "653",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DN8K",
+    "plan_no": "620",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBV",
+    "plan_no": "637",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCC",
+    "plan_no": "651",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNB9",
+    "plan_no": "621",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBX",
+    "plan_no": "639",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBG",
+    "plan_no": "625",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC6",
+    "plan_no": "646",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBJ",
+    "plan_no": "627",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC4",
+    "plan_no": "644",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNC8",
+    "plan_no": "648",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBC",
+    "plan_no": "623",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBL",
+    "plan_no": "629",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBF",
+    "plan_no": "624",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHQ",
+    "plan_no": "677",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHR",
+    "plan_no": "678",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJW",
+    "plan_no": "698",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJD",
+    "plan_no": "687",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ6",
+    "plan_no": "685",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZJT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0X3D0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P001",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P002",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P003",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P004",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P006",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P009",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P011",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P012",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P013",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P015",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P016",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0XS7Q",
+    "plan_no": "",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHH",
+    "plan_no": "661",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGM",
+    "plan_no": "651",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGL",
+    "plan_no": "650",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLH1",
+    "plan_no": "668",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLH0",
+    "plan_no": "660",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGZ",
+    "plan_no": "659",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHD",
+    "plan_no": "664",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ5",
+    "plan_no": "685",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJF",
+    "plan_no": "689",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHL",
+    "plan_no": "671",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJS",
+    "plan_no": "694",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJM",
+    "plan_no": "691",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHR",
+    "plan_no": "678",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJW",
+    "plan_no": "698",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ0",
+    "plan_no": "681",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHP",
+    "plan_no": "675",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGN",
+    "plan_no": "653",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGP",
+    "plan_no": "654",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "6C1",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMX003445",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CAR055 002",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CAR055 003",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE10BCR",
+    "plan_no": "",
+    "remarks": "Love Rainbow",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "CRMXE0FZL2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CY",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL.",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104986",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104986",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104984",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104984",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104985",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104985",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104981",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104981",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L1",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P001",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P002",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P003",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P004",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P006",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P009",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P011",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P012",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P013",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P015",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L4",
+    "plan_no": "P016",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG3",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG5",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "Reject",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "Uncut",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "Reject",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rainbow Lady",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0765D",
+    "plan_no": "",
+    "remarks": "",
+    "code": "R",
+    "name": "Rosecut"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0ZSG7",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W575",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CR43AM169",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "LILAS",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0NCPP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE03DO",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPSX",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT2",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT3",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT6",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT9",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTG",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTJ",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTK",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTL",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTM",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTQ",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTR",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTS",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTT",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTV",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTW",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTX",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPV0",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQFS",
+    "plan_no": "P002",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQFV",
+    "plan_no": "P003",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQFZ",
+    "plan_no": "P004",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG2",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG4",
+    "plan_no": "P009",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQHG",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQHJ",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQHR",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQHR",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQGN",
+    "plan_no": "P006",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQGH",
+    "plan_no": "P003",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT1",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0X4NX",
+    "plan_no": "",
+    "remarks": "6057T Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG0",
+    "plan_no": "P005",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG9",
+    "plan_no": "P014",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0BHFX",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG3",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG3",
+    "plan_no": "P008",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SQ",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX007BKG",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L3",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXEOZ7L5",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L3",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXEOZ7L5",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L2",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L2",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W575",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CR43AMA69",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W575",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CR43AMA69",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE07XT3",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RT",
+    "ref_no": "CRMXE07XT3",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE03D0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL.",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL.",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9VP",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG5",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG5",
+    "plan_no": "P010",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTS",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "FDP",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX006QQL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX006QQL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNCC",
+    "plan_no": "651",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0DNBP",
+    "plan_no": "632",
+    "remarks": "BZTJ",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJW",
+    "plan_no": "698",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLGM.",
+    "plan_no": "651",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHC",
+    "plan_no": "667",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHF",
+    "plan_no": "663",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHK",
+    "plan_no": "670",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHV",
+    "plan_no": "680",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJ1",
+    "plan_no": "684",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHQ",
+    "plan_no": "677",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLHN",
+    "plan_no": "673",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJD",
+    "plan_no": "687",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJL",
+    "plan_no": "690",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJT",
+    "plan_no": "697",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PLJR",
+    "plan_no": "693",
+    "remarks": "Captive",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "D3",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "CRMXE0PH9Q",
+    "plan_no": "",
+    "remarks": "Massai",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000K0F",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0SQ2S",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX0037PL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX0037PL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KCXC",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0QQQB",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RC",
+    "ref_no": "CRMXE0QQQB",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Chimères Collection",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE0FZL3",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "CRMXE03D0",
+    "plan_no": "",
+    "remarks": "",
+    "code": "T",
+    "name": "Table Polish"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "Tank",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P005",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P006",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P007",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P008",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0Q6L3",
+    "plan_no": "P009",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "PGMXE0R4WV",
+    "plan_no": "P1306",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "PGMXE0R4WV",
+    "plan_no": "P1307",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "PGMXE0R4WV",
+    "plan_no": "P1308",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#1",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#1",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#11",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#16",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#S1",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#S5",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#B",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#4",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#16",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#9",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "#3",
+    "remarks": "No. 3",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104982",
+    "plan_no": "No 1",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104986",
+    "plan_no": "No 2",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104984",
+    "plan_no": "No 2'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104985",
+    "plan_no": "No 3",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "5711-104981",
+    "plan_no": "No 3'",
+    "remarks": "#7-Nautilus",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000FQD",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106JD",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J6",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J7",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J8",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104QD",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE106J5",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104SG",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104QJ",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE104QX",
+    "plan_no": "",
+    "remarks": "Ligne S",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Trilogy",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Tache",
+    "code": "B",
+    "name": "Bufftop"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0SQ2S",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0SQ2S",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0SQ2S",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0KBVW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE09V72",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE09V72",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE09V72",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX007BKG",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0P9TV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BG",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Lilac",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX004LPN",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX005FR9",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000N1K",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L3",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L5",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "BE",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0P9TL",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TA",
+    "ref_no": "",
+    "plan_no": "",
+    "remarks": "Melon",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TU",
+    "ref_no": "CRMXE0N6TQ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0N6TK",
+    "plan_no": "",
+    "remarks": "",
+    "code": "C",
+    "name": "Cabochon"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1306",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1307",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1308",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1306",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1307",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1308",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1306",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1307",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1308",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1306",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1307",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "",
+    "plan_no": "P1308",
+    "remarks": "Gala",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT2",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPT3",
+    "plan_no": "P004",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPSX",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG2",
+    "plan_no": "P007",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PQG4",
+    "plan_no": "P009",
+    "remarks": "OVS Boucle",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTR",
+    "plan_no": "P002",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTS",
+    "plan_no": "P003",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "TB",
+    "ref_no": "VMMXE0PPTQ",
+    "plan_no": "P001",
+    "remarks": "OVS Lunette",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMX000HKV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0BBWT",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0MDSW",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0KQHJ",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0X7Z2",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE09V72",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "Rose in Motion",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "CU",
+    "ref_no": "CRMXE0PP8C",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PI",
+    "ref_no": "CRMXE11DOV",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "PR",
+    "ref_no": "CRMXE0ZH8Q",
+    "plan_no": "",
+    "remarks": "",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L0",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L2",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L1",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L3",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CRMXE0Z7L5",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0Z7L4",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W575",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "RD",
+    "ref_no": "CR43AM169",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  },
+  {
+    "shape": "SC",
+    "ref_no": "CRMXE0W576",
+    "plan_no": "",
+    "remarks": "Spiky Jucy",
+    "code": "F",
+    "name": "Full Facetted"
+  }
+]

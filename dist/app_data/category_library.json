@@ -1,0 +1,406 @@
+[
+  {
+    "stone": "Alexandrite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Almandine Garnet",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Amethyst",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Aquamarine",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Lavender Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Black Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Black Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Moon Stone",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Opal",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Sapphire Natural",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Topaz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Chalcedony",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Chrysoprase",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Citrine",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Cobalt Blue Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Cola Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Corail",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Cornelian",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Cubic Zirconia",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Emerald",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Fancy Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Garnet",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Gold Obsidian",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Green Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Grey Moonstone",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Grey Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Hessonite Garnet",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Lapis Lazuli",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Lavender Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "London Blue Topaz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Malachite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Moon Stone",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Nephrite Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Onyx",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Opal",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Orange Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Lavender Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Paraiba Tourmaline",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Peach Moonstone",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Peridot",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Quartz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Red Lavender Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Red Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Red Garnet",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Red Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Rhodolite Garnet",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Ruby",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Silver Obsidian",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Smoky Quartz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Spessartite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Swiss Blue Topaz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Tourmaline",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Chromium Tourmaline",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Green Tourmaline",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Ruby Tourmaline",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Tsavorite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Turquoise",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "White Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "White Moon Stone",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "White Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "White Topaz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Yellow Orange Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Yellow Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Yellow Green Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Tiger Eye Chalcadony",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Brown Sapphire",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Green Beryl",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Falcon Eye",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Spinel",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Black Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Lace Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Blue Chalcedony",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Black Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Rubelite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Green Aventurine",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Iolite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Sinhalite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Verdite Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Wyoming Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Grey Green Jasper",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Topaz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Sodalite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Red Jasper",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Jasper",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Mother Of Pearl",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Rose Quartz",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Apple Nephrite Jade",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Apatite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Opal",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Zircon",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Dumortierite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Green Agate",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Pink Chalcedony",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Amazonite",
+    "parent": "All/ Stones/ Finish"
+  },
+  {
+    "stone": "Purple Garnet",
+    "parent": "All/ Stones/ Finish"
+  }
+]
